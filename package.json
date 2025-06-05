@@ -1,0 +1,16 @@
+{
+  "name": "ai-eid-1446",
+  "version": "1.0.0",
+  "description": "AI Eid Card Generator 1446",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "next": "latest",
+    "react": "latest",
+    "react-dom": "latest"
+  }
+}
